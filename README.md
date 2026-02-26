@@ -1,7 +1,4 @@
 # SDG3-Good-Health-and-Well-Being
-Here’s a clean, professional README you can use for your project:
-
----
 
 # 🌱 Mental Health Awareness App
 
