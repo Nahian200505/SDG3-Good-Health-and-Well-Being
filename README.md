@@ -1,29 +1,30 @@
-# SDG3-Good-Health-and-Well-Being
-
 # 🌱 Mental Health Awareness App
 
-**SDG 3: Good Health and Well-Being**
-*(Prototype – Not Final Version)*
+### SDG 3 – Good Health and Well-Being
 
 ---
-##Teammate and role:
 
-Ethan Kang Kian Ming - Project Manager
-zzz - Business Analyst
-Daniyaa - UX Designer & Prototype Designer
-Nahian Bari Chowdhury - GitHub Manager
-Isaba Hamza Chowdhury - Testing & Quality Assurance Lead
+## 👥 Team Members & Roles
 
+* **Ethan Kang Kian Ming** – Project Manager
+* **Lee Pei Yii** – Business Analyst
+* **Daniiyaa Ramesh Kumar** – UX Designer & Prototype Designer
+* **Nahian Bari Chowdhury** – GitHub Manager
+* **Isaba Hamza Chowdhury** – Testing & Quality Assurance Lead
+
+---
 
 ## 📌 Project Overview
 
-This project is developed as part of the **Sustainable Development Goal (SDG) 3 – Good Health and Well-Being** initiative. The application focuses on promoting **mental health awareness among students** by providing supportive resources, guidance, and well-being tools.
+This project was developed in alignment with **Sustainable Development Goal 3 (Good Health and Well-Being)**.
 
-The current version represents a **prototype** and is **not the final release**.
+The application focuses on promoting **mental health awareness among students** by providing supportive resources, guidance, and well-being tools.
+
+⚠️ The current version is a **prototype** and is **not the final release**.
 
 ---
 
-## 🎯 Objective
+## 🎯 Project Objectives
 
 The main objectives of this project are:
 
@@ -41,9 +42,9 @@ Students often experience:
 * Academic pressure
 * Stress and anxiety
 * Emotional challenges
-* Lack of accessible mental health guidance
+* Limited access to mental health guidance
 
-This app aims to offer a **simple, supportive digital solution**.
+This application aims to provide a **simple, supportive digital solution** to help students manage their mental well-being.
 
 ---
 
@@ -51,124 +52,120 @@ This app aims to offer a **simple, supportive digital solution**.
 
 ### 🌀 Agile Approach
 
-The project follows an **Agile development process**, enabling:
+The project follows an **Agile development methodology**, which allows:
 
 * Iterative improvements
 * Continuous feedback
 * Flexible requirement updates
+* Sprint-based progress tracking
 
 ---
 
 ## 📋 Trello Usage & Sprint Progress
 
-| Day                  | Activity                                       |
-| -------------------- | ---------------------------------------------- |
-| **Day 1 (21/02/26)** | Trello board created (initial setup)           |
-| **Day 2**            | Sprint checklists added, board updated         |
-| **Day 3**            | Labels & dates added, sprint structure refined |
-| **Day 4**            | Trello board officially completed              |
-| **Day 5**            | Design phase cards added for SDG 3 topic       |
+| Day                    | Activity                                             |
+| ---------------------- | ---------------------------------------------------- |
+| **Day 1 (21/02/2026)** | Trello board created (initial setup)                 |
+| **Day 2**              | Sprint checklists added and board updated            |
+| **Day 3**              | Labels and due dates added, sprint structure refined |
+| **Day 4**              | Trello board officially completed                    |
+| **Day 5**              | Design phase cards added for SDG 3 topic             |
 
-**Label System:**
+### 🏷 Label System
 
-* 🔴 Red → Highest Priority
-* 🟠 Orange → Medium Priority
-* 🟢 Green → Lower Priority
+* 🔴 **Red** → Highest Priority
+* 🟠 **Orange** → Medium Priority
+* 🟢 **Green** → Lower Priority
 
 ---
 
 ## 🧩 SDLC Phases
 
-### ✅ Planning
-
-Completed tasks:
+### ✅ 1. Planning (Completed)
 
 * ✔ Product Vision (24/02/2026 – 5:30 PM)
-* ✔ Define Requirements (25/02/2026 – 12:34 AM)
-* ✔ User Stories (25/02/2026 – 10:53 PM)
+* ✔ Requirement Definition (25/02/2026 – 12:34 AM)
+* ✔ User Stories Creation (25/02/2026 – 10:53 PM)
 
 ---
 
-### 🔍 Analysis
+### 🔍 2. Analysis
 
-*(In Progress / Prototype Stage)*
-
----
-
-### 🎨 Design
-
-Includes UI planning and system structure.
+Currently in progress (Prototype Stage).
 
 ---
 
-### 🛠 Prototype Development
+### 🎨 3. Design
 
-Initial functional version created.
-
----
-
-### 🧪 Testing
-
-Basic testing performed for prototype validation.
+Includes UI planning, wireframes, and system structure design.
 
 ---
 
-## 💻 GitHub Evidence
+### 🛠 4. Prototype Development
 
-Project files, commits, and version tracking available in this repository.
+Initial functional version of the application created.
+
+---
+
+### 🧪 5. Testing
+
+Basic testing performed to validate the prototype functionality.
+
+---
+
+## 💻 GitHub Repository
+
+All project files, commits, and version tracking are available in this repository for transparency and documentation purposes.
 
 ---
 
 ## 📱 Prototype Showcase
 
-Demonstrates:
+The prototype demonstrates:
 
 * Core features
 * UI layout
 * Basic navigation
-* Functional flows
+* Functional user flows
 
 ---
 
-## ✨ Key Features (Prototype)
+## ✨ Key Features (Prototype Version)
 
-* Student-focused mental health concept
-* Awareness-driven interface
-* Structured Agile workflow
-* Sprint-based development
+* Student-focused mental health awareness concept
+* Awareness-driven user interface
+* Agile and sprint-based development process
+* Structured SDLC implementation
 
 ---
 
 ## 📝 Reflection
 
-This project helped improve understanding of:
+Through this project, the team improved understanding of:
 
 * Agile project management
-* Requirement planning
-* User story creation
-* Iterative design thinking
+* Requirement analysis and planning
+* Writing user stories
+* Iterative design and prototyping
+* Team collaboration and task distribution
 
 ---
 
 ## 📊 Conclusion
 
-The prototype establishes the foundation of a **mental health awareness application** aligned with **SDG 3**. Further development will enhance:
+This prototype establishes the foundation for a **Mental Health Awareness Application** aligned with **SDG 3 – Good Health and Well-Being**.
 
-* Features
-* UI/UX
-* Testing coverage
-* Performance
+Future improvements will focus on:
 
----
-
-## 📎 Appendices
-
-Additional supporting materials and documentation included where applicable.
+* Expanding application features
+* Enhancing UI/UX design
+* Increasing testing coverage
+* Improving system performance
 
 ---
 
 ## 🚧 Project Status
 
-⚠ **Prototype – Not Final Version**
+⚠️ **Prototype – Not Final Version**
 
-
+---
