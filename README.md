@@ -6,6 +6,14 @@
 *(Prototype – Not Final Version)*
 
 ---
+##Teammate and role:
+
+Ethan Kang Kian Ming - Project Manager
+zzz - Business Analyst
+Daniyaa - UX Designer & Prototype Designer
+Nahian Bari Chowdhury - GitHub Manager
+Isaba Hamza Chowdhury - Testing & Quality Assurance Lead
+
 
 ## 📌 Project Overview
 
