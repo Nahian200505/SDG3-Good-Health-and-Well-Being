@@ -16,11 +16,38 @@
 
 ## 📌 Project Overview
 
-This project was developed in alignment with **Sustainable Development Goal 3 (Good Health and Well-Being)**.
+---
 
-The application focuses on promoting **mental health awareness among students** by providing supportive resources, guidance, and well-being tools.
+## **The Purpose of the system**
 
-⚠️ The current version is a **prototype** and is **not the final release**.
+The purpose of the system is to provide a specialized digital platform for college students to proactively manage their mental health. The aim of the platform is to let the students notice their emotional health and seek professional help by offering a low barrier. This tool can help them to know their daily self reflection.
+
+---
+
+## **Target Users**
+
+→ College and University Students that may be experiencing:
+
+* social anxiety
+* academic burnout
+* high stress level
+* a need for the people that hesitant to visit the clinic immediately
+
+---
+
+## **Problem being solved**
+
+* for the people that **lack of awareness**: they don’t realize their own mood for a long time
+* for the people that are **shy or fear to seek someone for help**
+* for the people that are blur to know **where to get help from the professional**
+* it will provide a private mood tracker and it will centralize it to the university health services
+
+---
+
+## **How does it support SDG 3?**
+
+* early prevention: it helps detect the student’s mental issues early until it become worst or more serious problem by tracking the mood everyday
+* by digitizing the link between the student and the university clinic, it supports the SDG goal of granting "access to quality essential health-care services."
 
 ---
 
